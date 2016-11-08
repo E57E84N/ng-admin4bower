@@ -1,0 +1,29 @@
+{
+  "name": "ng-admin",
+  "main": [
+    "build/ng-admin.min.css",
+    "build/ng-admin.min.js"
+  ],
+  "ignore": [
+    "examples",
+    "src",
+    ".*",
+    "Gruntfile.js",
+    "*.html",
+    "Makefile",
+    "*.json",
+    "UPGRADE-*"
+  ],
+  "homepage": "https://github.com/E57E84N/ng-admin4bower",
+  "version": "1.0.0-beta3",
+  "_release": "1.0.0-beta3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0-beta3",
+    "commit": "2b8d92959818851eea11b37697871a5e353774af"
+  },
+  "_source": "https://github.com/E57E84N/ng-admin4bower",
+  "_target": "^1.0.0-beta3",
+  "_originalSource": "ng-admin",
+  "_direct": true
+}
