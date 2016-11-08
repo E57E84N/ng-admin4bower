@@ -1,5 +1,5 @@
 {
-  "name": "ng-admin",
+  "name": "ng-admin4bower",
   "main": [
     "build/ng-admin.min.css",
     "build/ng-admin.min.js"
@@ -20,10 +20,10 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.0.0-beta3",
-    "commit": "2b8d92959818851eea11b37697871a5e353774af"
+    "commit": "1eaeeea1f245fbfea02c65ecafe71bdb3783fff4"
   },
   "_source": "https://github.com/E57E84N/ng-admin4bower",
   "_target": "^1.0.0-beta3",
-  "_originalSource": "ng-admin",
+  "_originalSource": "ng-admin4bower",
   "_direct": true
 }
